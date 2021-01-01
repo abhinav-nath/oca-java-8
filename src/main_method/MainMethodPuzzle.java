@@ -1,4 +1,4 @@
-package com.codecafe.oca_prep;
+package main_method;
 
 public class MainMethodPuzzle {
 

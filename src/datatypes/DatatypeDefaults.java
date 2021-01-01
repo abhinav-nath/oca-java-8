@@ -1,4 +1,4 @@
-package com.codecafe.oca_prep;
+package datatypes;
 
 class FieldInit {
     char c;

@@ -1,4 +1,4 @@
-package com.codecafe.oca_prep;
+package operators;
 
 public class PostIncrementPuzzle {
 

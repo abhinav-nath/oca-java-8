@@ -1,4 +1,4 @@
-package com.codecafe.oca_prep;
+package method_overloading;
 
 public class MethodOverloadingPuzzle {
 

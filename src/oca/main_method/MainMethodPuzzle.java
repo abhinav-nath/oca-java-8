@@ -1,4 +1,4 @@
-package main_method;
+package oca.main_method;
 
 public class MainMethodPuzzle {
 

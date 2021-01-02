@@ -1,4 +1,4 @@
-package arrays;
+package oca.arrays;
 
 public class ArrayPuzzle {
 

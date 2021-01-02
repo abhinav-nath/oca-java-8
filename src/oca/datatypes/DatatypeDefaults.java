@@ -1,4 +1,4 @@
-package datatypes;
+package oca.datatypes;
 
 class FieldInit {
     char c;
